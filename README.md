@@ -4,7 +4,7 @@ Panel administrativo desarrollado con **React JS + Vite** como ejercicio prácti
 
 ## 📋 Descripción
 
-Sitio web que simula un panel administrativo con navegación moderna. Permite visualizar y gestionar Clientes, Proveedores y Usuarios del sistema mediante una interfaz limpia y responsiva.
+Sitio web que simula un panel administrativo con navegación. Permite visualizar y gestionar Clientes, Proveedores y Usuarios del sistema mediante una interfaz limpia y responsiva.
 
 ## 🚀 Tecnologías utilizadas
 
