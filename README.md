@@ -64,5 +64,5 @@ Sitio web que simula un panel administrativo con navegación. Permite visualizar
 
 ## 👨‍💻 Autores
 
-Alejandra Rodríguez Forero 
-Jerson Steven Mantilla Ramirez 
+- Alejandra Rodríguez Forero
+- Jerson Steven Mantilla Ramirez 
