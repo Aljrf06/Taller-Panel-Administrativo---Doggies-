@@ -1,0 +1,36 @@
+.mi-navbar {
+  background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
+  box-shadow: 0 2px 12px rgba(255, 107, 53, 0.3);
+  padding: 10px 20px !important;
+}
+
+.mi-navbar .navbar-brand {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  color: white !important;
+  letter-spacing: -0.5px;
+}
+
+.mi-navbar .nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-weight: 500;
+  font-size: 14px;
+  padding: 6px 14px !important;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+}
+
+.mi-navbar .nav-link:hover,
+.mi-navbar .nav-link.active {
+  background: rgba(255, 255, 255, 0.2);
+  color: white !important;
+}
+
+.logo-box {
+  background: white;
+  border-radius: 10px;
+  padding: 4px;
+  display: flex;
+  align-items: center;
+}

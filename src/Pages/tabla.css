@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Poppins:wght@400;500;600&display=swap');
+
+.tabla-page {
+  padding: 40px 32px;
+}
+
+.page-header {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.page-header h1 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  color: #2d2013;
+}
+
+.page-header h1 span {
+  color: #ff6b35;
+}
+
+.page-count {
+  font-size: 13px;
+  color: #9c8578;
+  font-weight: 500;
+}
+
+.tabla-wrap {
+  background: white;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+  width: 100%;
+}
+
+.tabla {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tabla thead th {
+  background: #2d2013;
+  color: #f7c59f;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  padding: 14px 20px;
+  text-align: left;
+}
+
+.tabla tbody td {
+  padding: 14px 20px;
+  font-size: 14px;
+  color: #4a3728;
+  border-bottom: 1px solid #f0e8df;
+}
+
+.tabla tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.tabla tbody tr:hover td {
+  background-color: #fff8f3;
+}
+
+.td-id {
+  font-weight: 600;
+  color: #9c8578;
+  font-size: 13px;
+}
+
+.td-nombre {
+  font-weight: 600;
+  color: #2d2013;
+}
+
+.td-correo {
+  color: #ff6b35;
+}
+
+.badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* Badges ciudad */
+.badge-bogota  { background: #fde8d8; color: #c45a1a; }
+.badge-medellin { background: #d8f0e8; color: #1a7a4a; }
+.badge-cali    { background: #d8e8fd; color: #1a4ac4; }
+
+/* Badges estado */
+.badge-activo   { background: #d8f0e8; color: #1a7a4a; }
+.badge-inactivo { background: #f0d8d8; color: #a41a1a; }
+
+/* Badges rol */
+.badge-admin  { background: #ede8fd; color: #5a1ac4; }
+.badge-editor { background: #fde8d8; color: #c45a1a; }
+.badge-lector { background: #f0e8d8; color: #8a6a2a; }
