@@ -15,8 +15,6 @@ Sitio web que simula un panel administrativo con navegación. Permite visualizar
 ## 📁 Estructura del proyecto
 <img width="379" height="828" alt="image" src="https://github.com/user-attachments/assets/ac0df384-e17a-4e38-9d92-e5e66841a050" />
 
-## ⚙️ Pasos seguidos
-
 ## 🛠️ Pasos seguidos
 
 1. **Inicialización del proyecto** con Vite y React:
