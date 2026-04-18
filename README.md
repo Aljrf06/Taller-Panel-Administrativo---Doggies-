@@ -1,16 +1,13 @@
-# React + Vite
+# 🐾 Doggies - Panel Administrativo Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Panel administrativo desarrollado con **React JS + Vite** como ejercicio práctico del curso de Ingeniería de Sistemas e Informática.
 
-Currently, two official plugins are available:
+## 📋 Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Sitio web que simula un panel administrativo con navegación moderna. Permite visualizar y gestionar Clientes, Proveedores y Usuarios del sistema mediante una interfaz limpia y responsiva.
 
-## React Compiler
+## 🚀 Tecnologías utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 
+- Bootstrap como framework de estilos
+- CSS personalizado con variables y diseño propio
